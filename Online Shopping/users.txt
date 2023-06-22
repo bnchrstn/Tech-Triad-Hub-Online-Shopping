@@ -1,0 +1,4 @@
+ben@gmail.com,12345,ben,marikina
+curry@gmail.com,golden,steph,california
+charles@gmail.com,123,charles,QC
+spam@gmail.com,123,spam,Mindoro
